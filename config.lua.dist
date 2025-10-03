@@ -76,7 +76,7 @@ mapAuthor = ""
 -- Market
 marketOfferDuration = 30 * 24 * 60 * 60
 premiumToCreateMarketOffer = false
-checkExpiredMarketOffersEachMinutes = 60
+checkExpiredMarketOffersEachMinutes = 60*24
 maxMarketOffersAtATimePerPlayer = 100
 
 -- MySQL
